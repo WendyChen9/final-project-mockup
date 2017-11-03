@@ -1,15 +1,18 @@
 # final-project-mockup
 
-<img class="ui medium centered image" src="/images/home1.png">
+## home page
+<img class="ui medium centered image" src="C:\Users\Wendy Chen\Documents\GitHub\final-project-mockup\app\public\images\home1.png">
 
 <img class="ui medium centered image" src="/images/home2.png">
 
 <img class="ui medium centered image" src="/images/home3.png">
 
+## profile page
 <img class="ui medium centered image" src="/images/account1.png">
 
 <img class="ui medium centered image" src="/images/account2.png">
 
+## landing page
 <img class="ui medium centered image" src="/images/land1.png">
 
 <img class="ui medium centered image" src="/images/land2.png">
