@@ -2,21 +2,15 @@
 
 ## home page
 ![Alt text](/app/public/images/home1.png)
-
-<img class="ui medium centered image" src="/images/home2.png">
-
-<img class="ui medium centered image" src="/images/home3.png">
+![Alt text](/app/public/images/home2.png)
+![Alt text](/app/public/images/home3.png)
 
 ## profile page
-<img class="ui medium centered image" src="/images/account1.png">
-
-<img class="ui medium centered image" src="/images/account2.png">
+![Alt text](/app/public/images/account1.png)
+![Alt text](/app/public/images/account2.png)
 
 ## landing page
-<img class="ui medium centered image" src="/images/land1.png">
-
-<img class="ui medium centered image" src="/images/land2.png">
-
-<img class="ui medium centered image" src="/images/land3.png">
-
-<img class="ui medium centered image" src="/images/land4.png">
+![Alt text](/app/public/images/land1.png)
+![Alt text](/app/public/images/land2.png)
+![Alt text](/app/public/images/land3.png)
+![Alt text](/app/public/images/land4.png)
