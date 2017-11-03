@@ -1,7 +1,7 @@
 # final-project-mockup
 
 ## home page
-![ScreenShot](/images/home1.png)
+![Alt text](/images/home1.png)
 
 <img class="ui medium centered image" src="/images/home2.png">
 
