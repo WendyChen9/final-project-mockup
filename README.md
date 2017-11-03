@@ -1,7 +1,7 @@
 # final-project-mockup
 
 ## home page
-<img class="ui medium centered image" src="C:\Users\Wendy Chen\Documents\GitHub\final-project-mockup\app\public\images\home1.png">
+![picture](C:\Users\Wendy Chen\Documents\GitHub\final-project-mockup\app\public\images\home1.png)
 
 <img class="ui medium centered image" src="/images/home2.png">
 
